@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:dev.jup.ag)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:docs.solana.com)",
+      "WebFetch(domain:station.jup.ag)",
+      "WebFetch(domain:solana.com)",
+      "WebSearch",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(grep -E \"\\\\.\\(gitattributes|sql\\)$\")",
+      "Bash(\"C:/Users/brice/OneDrive/Documents/Jup-local-project/src/App.jsx\")",
+      "Bash(powershell.exe -Command \"Copy-Item ''C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\jupiter-perps-journal\\\\src\\\\App.jsx'' -Destination ''C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\src\\\\App.jsx'' -Force\")",
+      "Bash(powershell.exe -Command \"Remove-Item ''C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\src\\\\App.jsx'' -Force\")",
+      "Bash(powershell.exe -Command \"Get-Process | Where-Object { $_.MainWindowTitle -like ''*App.jsx*'' -or $_.ProcessName -like ''*node*'' -or $_.ProcessName -like ''*vite*'' } | Select-Object ProcessName, Id\")",
+      "Bash(powershell.exe -Command \"[System.IO.File]::WriteAllText\\(''C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\src\\\\App.jsx'', [System.IO.File]::ReadAllText\\(''C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\jupiter-perps-journal\\\\src\\\\App.jsx''\\)\\); ''done''\")",
+      "Bash(icacls \"C:/Users/brice/OneDrive/Documents/Jup-local-project/src/App.jsx\")",
+      "Bash(attrib \"C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\src\\\\App.jsx\")",
+      "Bash(attrib -R \"C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\src\\\\App.jsx\")",
+      "Bash(powershell.exe -Command \"& { try { [IO.File]::Open\\(''C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\src\\\\App.jsx'', ''Open'', ''ReadWrite'', ''None''\\).Close\\(\\); ''unlocked'' } catch { $_.Exception.Message } }\")",
+      "Bash(powershell.exe -Command \"& { $src = ''C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\jupiter-perps-journal\\\\src\\\\App.jsx''; $dst = ''C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\src\\\\App.jsx''; $bytes = [IO.File]::ReadAllBytes\\($src\\); $fs = [IO.File]::Open\\($dst, ''Create'', ''Write'', ''None''\\); $fs.Write\\($bytes, 0, $bytes.Length\\); $fs.Close\\(\\); ''success'' }\")",
+      "Bash(powershell.exe -Command \"[IO.File]::Copy\\(''C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\jupiter-perps-journal\\\\src\\\\App.jsx'', ''C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\src\\\\App.jsx'', $true\\); ''success''\")",
+      "Bash(powershell.exe '[IO.File]::Copy\\(\"\"C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\jupiter-perps-journal\\\\src\\\\App.jsx\"\", \"\"C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\src\\\\App.jsx\"\", $true\\); \"\"success\"\"')",
+      "Bash(powershell.exe 'try { $b = [IO.File]::ReadAllBytes\\(\"\"C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\jupiter-perps-journal\\\\src\\\\App.jsx\"\"\\); $f = [IO.File]::Open\\(\"\"C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\src\\\\App.jsx\"\",\"\"Create\"\",\"\"Write\"\",\"\"None\"\"\\); $f.Write\\($b,0,$b.Length\\); $f.Close\\(\\); \"\"success: $\\($b.Length\\) bytes\"\" } catch { $_.Exception.Message }')",
+      "Bash(powershell.exe 'try { $f = [IO.File]::Open\\(\"\"C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\src\\\\App.jsx\"\",\"\"Open\"\",\"\"ReadWrite\"\",\"\"ReadWrite\"\"\\); $f.SetLength\\(0\\); $b = [IO.File]::ReadAllBytes\\(\"\"C:\\\\Users\\\\brice\\\\OneDrive\\\\Documents\\\\Jup-local-project\\\\jupiter-perps-journal\\\\src\\\\App.jsx\"\"\\); $f.Write\\($b,0,$b.Length\\); $f.Close\\(\\); \"\"success: $\\($b.Length\\) bytes\"\" } catch { $_.Exception.Message }')",
+      "Bash(\"C:/Users/brice/OneDrive/Documents/Jup-local-project/src/test_write.tmp\")",
+      "WebFetch(domain:api.github.com)",
+      "Bash(curl -s https://api.github.com/repos/julianfssen/jupiter-perps-anchor-idl-parsing/contents/src)",
+      "Bash(curl -s -L https://raw.githubusercontent.com/julianfssen/jupiter-perps-anchor-idl-parsing/main/src/idl/jupiter-perpetuals-idl.ts)"
+    ]
+  }
+}
