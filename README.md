@@ -28,6 +28,9 @@ Fzy84tGixxQHD2dZphhULEKfYcCsqF5VXoka1xX8iAUC
 ![Dashboard Demo](./demo.png)
 ---
 
+![Dashboard Patterns Tab](./patterns.png)
+---
+
 ## Quick Setup (5 minutes)
 
 ### 1. Install Node.js (if you don't have it)
