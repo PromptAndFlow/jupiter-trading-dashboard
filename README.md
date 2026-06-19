@@ -4,31 +4,23 @@
 
 A free, local, open-source journal-style dashboard for tracking your Jupiter.ag perpetuals trades.
 
-Built by **CryptoandCloud**. 
+Built by **cryptoandcloud**.
+
+**🔥 Live Demo:** [jupiter-trading-dashboard.vercel.app](https://jupiter-trading-dashboard.vercel.app) *(Try the "Demo Profile"! Data stays 100% in your browser)*
 
 **Connect with me:**
+- 🐦 **Twitter:** [@cryptoandcloud](https://x.com/cryptoandcloud)
 - 👻 **Phantom:** [@cryptoandcloud](https://phantom.com/user/cryptoandcloud)
-- 📺 **YouTube:** [PromptAndFlow](https://www.youtube.com/@PromptAndFlow) - Check out my channel for deep dives into AI and automation!
-
----
-
-## 💖 Support & Donate
-
-If this free tool helps you secure the bag, consider supporting its development! 
-
-**Solana Donation Address:**
-```
-Fzy84tGixxQHD2dZphhULEKfYcCsqF5VXoka1xX8iAUC
-```
+- 📺 **YouTube:** [PromptAndFlow](https://www.youtube.com/@PromptAndFlow)
 
 ---
 
 ## 📸 Screenshots
 
-![Dashboard Demo](./demo.png)
+![Dashboard Demo](demo.png)
 ---
 
-![Dashboard Patterns Tab](./patterns.png)
+![Dashboard Patterns Tab](patterns.png)
 ---
 
 ## Quick Setup (5 minutes)
@@ -40,7 +32,8 @@ Download from: https://nodejs.org (LTS version)
 Open a terminal / PowerShell and run:
 
 ```bash
-cd jupiter-perps-journal
+git clone https://github.com/PromptAndFlow/jupiter-trading-dashboard.git
+cd jupiter-trading-dashboard
 npm install
 npm run dev
 ```
@@ -86,6 +79,17 @@ Creates a `dist/` folder with static files you can host anywhere (or just open `
 ## Contributing
 
 We welcome contributions! If you have ideas for new metrics, UI improvements, or API integrations (like Helius), feel free to open an issue or submit a Pull Request.
+
+---
+
+## 💖 Support & Donate
+
+If this free tool helps you secure the bag, consider supporting its development! 
+
+**Solana Donation Address:**
+```
+Fzy84tGixxQHD2dZphhULEKfYcCsqF5VXoka1xX8iAUC
+```
 
 ---
 
