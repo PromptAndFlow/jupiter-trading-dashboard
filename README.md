@@ -4,7 +4,7 @@
 
 A free, local, open-source TradeZella-style dashboard for tracking your Jupiter.ag perpetuals trades.
 
-Built by **Crypto in Cloud**. 
+Built by **CryptoandCloud**. 
 
 **Connect with me:**
 - 👻 **Phantom:** [@cryptoandcloud](https://phantom.com/user/cryptoandcloud)
