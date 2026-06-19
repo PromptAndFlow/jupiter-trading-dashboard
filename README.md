@@ -2,7 +2,7 @@
 
 ![Jupiter Perps Journal](https://jupiter.ag/favicon.ico)
 
-A free, local, open-source TradeZella-style dashboard for tracking your Jupiter.ag perpetuals trades.
+A free, local, open-source journal-style dashboard for tracking your Jupiter.ag perpetuals trades.
 
 Built by **CryptoandCloud**. 
 
