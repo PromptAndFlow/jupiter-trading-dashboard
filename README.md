@@ -25,8 +25,7 @@ Fzy84tGixxQHD2dZphhULEKfYcCsqF5VXoka1xX8iAUC
 
 ## 📸 Screenshots
 
-*(Add your screenshots here! Take a screenshot of your Demo Profile dashboard and replace this text with `![Dashboard Demo](./demo.png)`)*
-
+![Dashboard Demo](./demo.png)
 ---
 
 ## Quick Setup (5 minutes)
